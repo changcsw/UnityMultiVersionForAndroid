@@ -1,0 +1,17 @@
+/.vs
+/.idea
+/.vscode
+/Library
+/obj
+/Temp
+/Logs
+/ProjectSettings/ProjectVersion.txt
+*.csproj
+*.DotSettings
+*.sln
+*.apk
+/Assets/StreamingAssets/build_info
+/Assets/Plugins/Editor.meta
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
+/ProjectSettings

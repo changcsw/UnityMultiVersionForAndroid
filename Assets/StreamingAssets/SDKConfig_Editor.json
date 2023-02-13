@@ -1,0 +1,26 @@
+{
+    "base": {
+        "env": 2,
+        "gameId": 100001,
+        "secret": "70f75282-0144-11ea-bb1a-060d5b3e7372",
+        "region": "CN",
+        "channel": "editor",
+        "pkgId": "editor"
+    },
+    "bugly": {
+        "appId": "d44601a30e"
+    },
+    "facebook": {
+        "friendsEnable": false,
+        "avatarWidth": 50,
+        "avatarHeight": 50,
+        "appId": "568333576981940",
+        "pageId": "105614761051397",
+        "pagePath": "puzzle.platform"
+    },
+    "aiHelp": {
+        "appKey": "CHANGE_app_8bcf1efa07c04fbebeb0ba75277e9108",
+        "domain": "Change.CS30.NET",
+        "appId": "Change_platform_6ebe6346-0a0b-42ce-a412-9cd45420449a"
+    }
+}

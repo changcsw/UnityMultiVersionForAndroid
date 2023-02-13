@@ -1,0 +1,17 @@
+{
+  "base": {
+    "env": 2,
+    "gameId": 1001,
+    "region": "US",
+    "language": "zh-CN",
+    "channel": "gp",
+    "pkgId": "global"
+  },
+  "google": {
+    "webClientId": "397057852154-fh9ctua7sl10osrggt6kkj2tuu7ejik5.apps.googleusercontent.com",
+    "playIapBase64Key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvid/N25iBeQcr7kKhqPUZ0GRaK6OsoPrBwfRGkLkc00vv3UAusERSEvJeiEUiJOd7aF5hhQI9OHh5rp2x7WfC2lCAPbdZuXeKARADRYnCNFU74+aA5BxVFXZGWAjRh3OjNwm/HZircDCUQG5QWRUgzJj69ngbm0rd5F6F1FAURdPOW1xgTmtyp7ybjZDs9iasR9mUDmeO5szWqt1tL/Bgjw2yL2bIbPG6hvkmzDuUNchlm4AP90v1XjeL3NxL2zVWsC1BTQQ5GFQWROtjOS+YSuhBfdyXzTscyFJmScFERZ5Zm/1V4gTTe7jKxZaT33JcMoo6C5AJYOD6AsbAvhstQIDAQAB"
+  },
+  "appsFlyer": {
+    "devKey": "e6Dv2JmiMuyZA8KtRVoaMd"
+  }
+}
